@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package calculator;
+
+option go_package = "github.com/dev-hyunsang/study-grpc-video/calculator/proto";
+
+message SumRequest {
+    int32 frist_number = 1;
+    int32 secnod_number = 2;
+}
+
+message SumResponse {
+    int32 result = 1;
+}

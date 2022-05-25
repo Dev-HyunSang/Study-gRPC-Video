@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package calculator;
+
+option go_package = "github.com/dev-hyunsang/study-grpc-video/calculator/proto";
+
+import "sum.proto";
+
+service CalculatorService {
+    rpc Sum(SumRequest) returns (SumResponse);
+}
