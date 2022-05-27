@@ -43,12 +43,12 @@ $ go get -u google.golang.org/grpc
     - [ ] 22. [Exercise] Sum API - 2022.05.26 완료
     - [ ] 23. [Solution] Sum API - 2022.05.26 완료
 - Session6: [Hand-On] gRPC Server Streaming
-    - 24. Server Streaming API Server Implementaion - 2022.05.26 완료
-    - 25. Server Streaming API Client Implementaion - 2022.05.26 완료
-    - 26. [Exercise] Primes API  - 2022.05.27 완료
-    - 27. [Solution] Primes API - 2022.05.27 완료
+    - [ ] 24. Server Streaming API Server Implementaion - 2022.05.26 완료
+    - [ ] 25. Server Streaming API Client Implementaion - 2022.05.26 완료
+    - [ ] 26. [Exercise] Primes API  - 2022.05.27 완료
+    - [ ] 27. [Solution] Primes API - 2022.05.27 완료
 - Session7 [Hand-On] gRPC Client Streaming
-    - 28. Client Streaming API Server Implementaion
-    - 29. Client Streaming API Client Implementaion
-    - 30. [Exercise] Avg API
-    - 31. [Solution] Avg API
+    - [ ] 28. Client Streaming API Server Implementaion
+    - [ ] 29. Client Streaming API Client Implementaion
+    - [ ] 30. [Exercise] Avg API
+    - [ ] 31. [Solution] Avg API
