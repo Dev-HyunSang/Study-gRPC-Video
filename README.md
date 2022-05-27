@@ -10,4 +10,45 @@
 $ go install google.golang.org/protobuf/cmd/protoc-gen-go@v1.28
 $ go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.2
 $ go mod init
+$ go get -u google.golang.org/grpc
 ```
+
+## To-Do
+- Session1: gRPC Course Overview
+    - [X] 1.gRPC Introduction - 2022.05.25 완료
+    - [X] 2. Course Objective - 2022.05.25 완료
+    - [X] 3. About your instructor - 2022.05.25 완료
+    - [X] 4. Important Message - 2022.05.25 완료
+- Session2: Code Download
+    - [X] 5. Code Download - 2022.05.25 완료
+- Session3: [Theory] gRPC Internals Deep Dive
+    - [X] 6. Why this section? - 2022.05.25 완료
+    - [X] 7. Protocol Buffers & Language Interoperability - 2022.05.25 완료
+    - [X] 8. HTTP/2 - 2022.05.25 완료
+    - [X] 9. 4 Types of gRPC APIs - 2022.05.25 완료
+    - [X] 10. Scalability in gRPC - 2022.05.25 완료
+    - [X] 11. Security in gRPC(SSL) - 2022.05.25 완료
+    - [X] 12. gRPC vs REST - 2022.05.25 완료
+    - [X] 13. Section Summary - why use gRPC
+- Session4: 섹션 4: [Hands-On] gRPC Project Overview & Setup
+    - [ ] 14. Project Setup (Golang + VSCode + Protoc) - 2022.05.26
+    - [ ] 15. Go Dependencies Setup - 2022.05.26
+    - [ ] *16. Makefile(Window)* - 2022.05.26
+    - [ ] 17. Makefile - 2022.05.26 완료
+    - [ ] 18. Server Setup Boilerpate Code - 2022.05.26 완료
+    - [ ] 19. Client Setup Boilerplate Code - 2022.05.26 완료
+- Sesion5: [Hand-On] gRPC Unary
+    - [ ] 20. Unary API Server Impiementation - 2022.05.26 완료
+    - [ ] 21. Unary API Client Implementaion - 2022.05.26 완료
+    - [ ] 22. [Exercise] Sum API - 2022.05.26 완료
+    - [ ] 23. [Solution] Sum API - 2022.05.26 완료
+- Session6: [Hand-On] gRPC Server Streaming
+    - 24. Server Streaming API Server Implementaion - 2022.05.26 완료
+    - 25. Server Streaming API Client Implementaion - 2022.05.26 완료
+    - 26. [Exercise] Primes API  - 2022.05.27 완료
+    - 27. [Solution] Primes API
+- Session7 [Hand-On] gRPC Client Streaming
+    - 28. Client Streaming API Server Implementaion
+    - 29. Client Streaming API Client Implementaion
+    - 30. [Exercise] Avg API
+    - 31. [Solution] Avg API
