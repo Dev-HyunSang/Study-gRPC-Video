@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package calculator;
+
+option go_package="github.com/dev-hyunsang/study-grpc-video/calculator/proto";
+
+message AvgRequest {
+    int32 number = 1;
+}
+
+message AvgResponse {
+    double result = 1;
+}

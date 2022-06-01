@@ -29,26 +29,26 @@ $ go get -u google.golang.org/grpc
     - [X] 10. Scalability in gRPC - 2022.05.25 완료
     - [X] 11. Security in gRPC(SSL) - 2022.05.25 완료
     - [X] 12. gRPC vs REST - 2022.05.25 완료
-    - [X] 13. Section Summary - why use gRPC
+    - [X] 13. Section Summary - why use gRPC - 2022.05.25 완료
 - Session4: 섹션 4: [Hands-On] gRPC Project Overview & Setup
-    - [ ] 14. Project Setup (Golang + VSCode + Protoc) - 2022.05.26
-    - [ ] 15. Go Dependencies Setup - 2022.05.26
-    - [ ] *16. Makefile(Window)* - 2022.05.26
-    - [ ] 17. Makefile - 2022.05.26 완료
-    - [ ] 18. Server Setup Boilerpate Code - 2022.05.26 완료
-    - [ ] 19. Client Setup Boilerplate Code - 2022.05.26 완료
+    - [X] 14. Project Setup (Golang + VSCode + Protoc) - 2022.05.26 완료
+    - [X] 15. Go Dependencies Setup - 2022.05.26 완료
+    - [X] *16. Makefile(Window)* - 2022.05.26 완료
+    - [X] 17. Makefile - 2022.05.26 완료
+    - [X] 18. Server Setup Boilerpate Code - 2022.05.26 완료
+    - [X] 19. Client Setup Boilerplate Code - 2022.05.26 완료
 - Sesion5: [Hand-On] gRPC Unary
-    - [ ] 20. Unary API Server Impiementation - 2022.05.26 완료
-    - [ ] 21. Unary API Client Implementaion - 2022.05.26 완료
-    - [ ] 22. [Exercise] Sum API - 2022.05.26 완료
-    - [ ] 23. [Solution] Sum API - 2022.05.26 완료
+    - [X] 20. Unary API Server Impiementation - 2022.05.26 완료
+    - [X] 21. Unary API Client Implementaion - 2022.05.26 완료
+    - [X] 22. [Exercise] Sum API - 2022.05.26 완료
+    - [X] 23. [Solution] Sum API - 2022.05.26 완료
 - Session6: [Hand-On] gRPC Server Streaming
-    - [ ] 24. Server Streaming API Server Implementaion - 2022.05.26 완료
-    - [ ] 25. Server Streaming API Client Implementaion - 2022.05.26 완료
-    - [ ] 26. [Exercise] Primes API  - 2022.05.27 완료
-    - [ ] 27. [Solution] Primes API - 2022.05.27 완료
+    - [X] 24. Server Streaming API Server Implementaion - 2022.05.26 완료
+    - [X] 25. Server Streaming API Client Implementaion - 2022.05.26 완료
+    - [X] 26. [Exercise] Primes API  - 2022.05.27 완료
+    - [X] 27. [Solution] Primes API - 2022.05.27 완료
 - Session7 [Hand-On] gRPC Client Streaming
-    - [ ] 28. Client Streaming API Server Implementaion
-    - [ ] 29. Client Streaming API Client Implementaion
+    - [X] 28. Client Streaming API Server Implementaion - 2022.06.01 완료
+    - [X] 29. Client Streaming API Client Implementaion - 2022.06.01 완료
     - [ ] 30. [Exercise] Avg API
     - [ ] 31. [Solution] Avg API
